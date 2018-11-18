@@ -1,0 +1,24 @@
+{
+  "songs": [
+    {
+      "title": "The Walk",
+      "artist": "Mayer Hawthorne",
+      "album": "How Do You Do"
+    },
+    {
+      "title": "YYZ",
+      "artist": "Rush",
+      "album": "Moving Pictures"
+    },
+    {
+      "title": "Medicine",
+      "artist": "Grace Potter",
+      "album": "Grace Potter and the Nocturnals"
+    },
+    {
+      "title": "Legs",
+      "artist": "ZZ Top",
+      "album": "Eliminator"
+    }
+  ]
+}
